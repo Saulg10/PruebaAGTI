@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api.net.core.facturacion", "api.net.core.facturacion\api.net.core.facturacion.csproj", "{4D3D0217-0810-494E-876E-E4244DB38090}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - API", "1 - API", "{7B619304-3AA5-4CBC-AAA3-D5E3471CB79D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Application", "2 - Application", "{759222D2-8929-4047-8FFD-5D8ED227AD55}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain", "3 - Domain", "{2AD8281A-3330-4232-BA30-682BBBC90F51}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - DataAccess", "4 - DataAccess", "{EBC4E3C5-F7EC-4DD3-A017-44FDB0D8AD4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D3D0217-0810-494E-876E-E4244DB38090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D3D0217-0810-494E-876E-E4244DB38090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D3D0217-0810-494E-876E-E4244DB38090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D3D0217-0810-494E-876E-E4244DB38090}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4D3D0217-0810-494E-876E-E4244DB38090} = {7B619304-3AA5-4CBC-AAA3-D5E3471CB79D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE7EA3A8-9A0E-4BE8-B989-6CBAE0A2B69C}
+	EndGlobalSection
+EndGlobal
